@@ -5,5 +5,5 @@ Gambler is a python libraray that mimics the behavior of a deck of cards. it can
 if you have any imrovements or additons for it, feel free to make a pull request or message me your idea.
 possible future updates might include:
 -support for multiplayer games past two players
--accurate psystematic shuffling, as opposed to random shuffles
+-accurate systematic shuffling, as opposed to random shuffles
 -a possible pygame graphical version 
